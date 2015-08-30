@@ -2,7 +2,12 @@
   <h4>{{ site.locales[site.default_locale].Recent_Posts }}</h4>
   {% for post in site.posts limit:5 %}
   <li>
-  <a href="{{ site.baseurl }}/{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
+    <a href="{{ site.baseurl }}/{{ post.url }}" title="{{ post.title }}" rel="bookmark">
+      <div class="recent-item table-row">
+        <div class="table-cell"><img src="{{ post.image.thumbnail }}" class="thumbnail"/></div>
+        <div class="recent-title table-cell">{{ post.title }}</div>
+      </div>
+    </a>
   </li>
   {% endfor %}
 </div>

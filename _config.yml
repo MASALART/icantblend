@@ -1,4 +1,4 @@
-### Site info:
+v## Site info:
 title: "I CAN'T BLEND"
 tagline: "Yes, You Can!"
 author: Hasan Basri Kenar
@@ -11,7 +11,7 @@ locale: en_US
 
 ### Personal info and site tools info:
 github_username: c6parmak
-favicon: "/images/favicon.ico"
+favicon: "{{ site.baseurl }}/images/favicon.ico"
 aboutme: Hi, this is Hasan Basri Kenar. # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/hasan.jpg" # your photo.
 
@@ -21,20 +21,24 @@ ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on ab
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
 
+#excerpt_separator: <!--more-->
+
 locales:
-    en:
-      Aboutme: "About Me"
-      Archives: "Archives"
-      Categories: "Categories"
-      Recent_Posts: "Recent Posts"
-      Tags: "Tags"
-      Previous: "Older"
-      Next: "Newer"
-      PostedInCategories: "Posted in"
-      Taggedwith: "and tagged"
-      PostDate: "on "
+  en:
+    Aboutme: "About Me"
+    Archives: "Archives"
+    Categories: "Categories"
+    Recent_Posts: "Recent Posts"
+    Tags: "Tags"
+    Previous: "Older"
+    Next: "Newer"
+    PostedInCategories: "Posted in"
+    Taggedwith: "and tagged"
+    PostDate: "on "
 
 ### Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 highlighter: pygments
-paginate: 5
+paginate: 10

@@ -178,13 +178,12 @@
 }
 
 .post-title {
-  font-size: 38px;//42px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+  font-size: 28px;//38px;
   letter-spacing: -1px;
   line-height: 1;
-
-  @include media-query($on-laptop) {
-    font-size: 36px;
-  }
 }
 
 
@@ -213,6 +212,9 @@
 
 
 .post-content {
+  margin-left: 10px;
+  margin-right: 10px;
+
   p { padding:$spacing-unit/5 0; } 
   //margin-bottom: $spacing-unit;
   h1 { 
@@ -297,8 +299,8 @@ time{
 
 .about{
   img {
-    height: 128px;
-    width: 128px;
+    max-height: 128px;
+    max-width: 128px;
     border-radius:50%;
     margin: 0 auto;
     display: block;

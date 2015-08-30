@@ -1,0 +1,68 @@
+@mixin column-count($count) {
+  -webkit-column-count: $count;
+     -moz-column-count: $count;
+      -ms-column-count: $count;
+          column-count: $count;
+}
+@mixin column-width($width) {
+  -webkit-column-width: $width;
+     -moz-column-width: $width;
+      -ms-column-width: $width;
+          column-width: $width;
+}
+@mixin column-gap($gap) {
+  -webkit-column-gap: $gap;
+     -moz-column-gap: $gap;
+      -ms-column-gap: $gap;
+          column-gap: $gap;
+}
+
+.table-row {
+    display: table-row;
+}
+.table-cell {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.figure {
+    text-align: center;
+    font-size: 80%;
+}
+
+img.banner {
+    width: 100%;
+    display: block;
+    margin: 0px auto;
+}
+
+.recent-item {
+    min-height: 96px;
+}
+img.thumbnail {
+    max-width: 96px;
+    max-height: 96px;
+}
+
+
+.home {
+    @include column-count(5);
+    @include column-width(250px);
+    @include column-gap(0px);
+}
+
+.recent-title {
+    padding-left: 5px;
+}
+
+.home .post {
+    display: inline-block;
+    box-shadow: 1px 1px 5px #666;
+    margin: 10px;
+}
+
+.post-container .post {
+    max-width: 640px;
+    margin: 0px auto;
+}
+

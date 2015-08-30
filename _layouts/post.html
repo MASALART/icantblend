@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div class="post-container">
 <div class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -10,7 +11,7 @@ layout: default
     {{ site.locales[site.default_locale].PostedInCategories }}
     {% for cat in page.categories %}
     <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>&nbsp;
-    {% endfor %} 
+    {% endfor %}
     {% if page.tags != empty %}
     {{ site.locales[site.default_locale].Taggedwith }}
     {% for tag in page.tags %}
@@ -27,6 +28,7 @@ layout: default
     {{ content }}
   </article>
   <hr />
+</div>
 </div>
 
 

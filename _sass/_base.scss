@@ -49,12 +49,8 @@ ul, ol, dl, figure,
   max-width:         calc(#{$page-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
   padding-top:30px;
 
-  margin-top:20px;
-  margin-bottom:30px;
 }
 
 /*for media*/

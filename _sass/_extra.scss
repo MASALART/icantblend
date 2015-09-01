@@ -46,23 +46,41 @@ img.thumbnail {
 
 
 .home {
-    @include column-count(5);
     @include column-width(250px);
     @include column-gap(0px);
+
+    .post {
+        display: inline-block;
+        box-shadow: 1px 1px 5px #666;
+        margin: 10px;
+        .post-banner {
+            position: relative;
+            .post-date {
+                position: absolute;
+                color: #fff;
+                font-weight: 900;
+                font-size: 80%;
+                background-color: rgba(0,0,0,.3);
+                padding: 0 2px;
+                top: 0px;
+                left: 0px;
+            }
+        }
+        &:hover {
+            box-shadow: 1px 1px 5px #246;
+        }
+    }
 }
 
 .recent-title {
     padding-left: 5px;
+    line-height: 1;
 }
 
-.home .post {
-    display: inline-block;
-    box-shadow: 1px 1px 5px #666;
-    margin: 10px;
-}
 
 .post-container .post {
     max-width: 640px;
     margin: 0px auto;
 }
+
 

@@ -4,23 +4,26 @@ layout: default
 
 <div class="home">
 
-    {% for post in paginator.posts %}
+  {% for post in paginator.posts %}
 
   <div class="post" itemscope itemtype="http://schema.org/BlogPosting" >
-    <header class="post-header">
-      <a itemprop="url" class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+    <a itemprop="url" class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+      <div class="post-banner">
         <img src="{{ post.image.banner }}" class="banner"/>
+        <span class="post-date">{{ post.date | date_to_string }}</span>
+      </div>
+      <header class="post-header">
         <h1 itemprop="name" class="post-title">
           {{ post.title }}
         </h1>
-      </a>
-      <meta itemprop="keywords" content="{{ post.tags | join: ',' }}" />
-    </header>
+        <meta itemprop="keywords" content="{{ post.tags | join: ',' }}" />
+      </header>
 
-    <article class="post-content" itemprop="articleBody">
-      {{ post.excerpt | strip_html }}
-    </article>
+      <article class="post-content" itemprop="articleBody">
+        {{ post.excerpt | strip_html }}
+      </article>
+    </a>
   </div>
 
-    {% endfor %}
+  {% endfor %}
 </div>

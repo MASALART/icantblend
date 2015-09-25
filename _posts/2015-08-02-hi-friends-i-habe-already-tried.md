@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HOW TO RENDER AMBIENT OCCLUSION PASS IN CYCLES - Lego Batmobile
+title: How to Render Ambient Occlusion Pass in Cycles - Lego Batmobile
 date: '2015-08-02T02:27:00.002+03:00'
 author: H.B.KENAR
 tags:

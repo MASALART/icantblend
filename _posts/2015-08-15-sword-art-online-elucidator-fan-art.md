@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SWORD ART ONLINE - ELUCIDATOR FAN ART
+title: Sword Art Online - Elucidator Fan Art
 date: '2015-08-15T10:08:00.000+03:00'
 author: H.B.KENAR
 tags:

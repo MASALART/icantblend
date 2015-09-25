@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CLUMSY CHAPPIE ALWAYS NEEDS SPARE PARTS
+title: Clumsy Chappie Always Needs Spare Parts
 date: '2015-07-19T23:22:00.001+03:00'
 author: H.B.KENAR
 tags:

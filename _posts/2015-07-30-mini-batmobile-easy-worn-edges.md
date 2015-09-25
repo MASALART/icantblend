@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MINI BATMOBILE - EASY WORN EDGES
+title: Mini Batmobile - Easy Worn Edges
 date: '2015-07-30T23:51:00.001+03:00'
 author: H.B.KENAR
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WIREFRAME RENDERING - The Quickest Way Ever
+title: Wireframe Rendering - The Quickest Way Ever
 date: '2015-07-13T11:45:00.002+03:00'
 author: H.B.KENAR
 tags:

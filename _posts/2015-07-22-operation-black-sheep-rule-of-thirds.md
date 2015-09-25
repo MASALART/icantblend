@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OPERATION BLACK SHEEP-RULE OF THIRDS
+title: Operation Black Sheep - Rule of Thirds
 date: '2015-07-22T11:33:00.000+03:00'
 author: H.B.KENAR
 tags:

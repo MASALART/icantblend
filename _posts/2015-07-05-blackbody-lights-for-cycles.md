@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BLACKBODY LIGHTS FOR CYCLES
+title: Blackbody Lights for Cycles
 date: '2015-07-05T18:39:00.001+03:00'
 author: H.B.KENAR
 tags:

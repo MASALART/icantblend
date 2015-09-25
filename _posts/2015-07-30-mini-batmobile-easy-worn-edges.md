@@ -21,27 +21,16 @@ blogger_id: tag:blogger.com,1999:blog-3661140495303223609.post-36745977559090893
 blogger_orig_url: http://www.icantblend.com/2015/07/mini-batmobile-easy-worn-edges.html
 ---
 
-Hi friends, how are you all? New Cycles Pointiness feature makes it a lot easier to create worn edges. Pointiness node is a branch of "Geometry" node. Be sure you are using current version of Blender 3d. While rendering worn edges you do not have to map UV textures. Actually we do not use any textures. Without textures or UV mapping Pointiness way is the most simple way to create worn edges. This technique calculates how much the edges are sharp or smooth, then edges are automatically rendered by lighter shades of any colour. I chose modelling a lego batmobile to show this awesome pointiness method. The result is pretty awesome i think. Below we see the result. For the batmobile body, you see the worn edges.
+Hi friends, how are you all? New Cycles Pointiness feature makes it a lot easier to create worn edges. Pointiness node is a branch of "Geometry" node. Be sure you are using current version of Blender 3d. While rendering worn edges you do not have to map UV textures. Actually we do not use any textures. Without textures or UV mapping Pointiness way is the most simple way to create worn edges. This technique calculates how much the edges are sharp or smooth, then edges are automatically rendered by lighter shades of any colour. I chose modelling a lego batmobile to show this awesome pointiness method. The result is pretty awesome i think. Below we see the result. For the batmobile body, you see the worn edges. In the second image you can see the difference with simple diffuse shader.
 
-<div class="figure">
-![](http://1.bp.blogspot.com/-UBMbh60gJxo/VbtWphdgTuI/AAAAAAAAALs/grlkJHp5uAE/w1024/batmobile%2Bpointiness_rights.jpg)
-Mini Batmobile Body Worn Edges with Pointiness Method
-</div>
-
-To see the difference between worn edges&nbsp;and simple diffuse shader below you see the simple diffuse shader render result.
-
-<div class="figure">
-![](http://2.bp.blogspot.com/-8k9ptU1a9ZA/Vbvbl5a8RfI/AAAAAAAAAME/gcFZMLeTw34/w1024/batmobile%2Bdiffuse.jpg)
-Mini Batmobile Body Simple Diffuse Shader
+<div class="gallery layered">
+![Mini Batmobile Body Worn Edges with Pointiness Method](http://1.bp.blogspot.com/-UBMbh60gJxo/VbtWphdgTuI/AAAAAAAAALs/grlkJHp5uAE/w1024/batmobile%2Bpointiness_rights.jpg)
+![Mini Batmobile Body Simple Diffuse Shader](http://2.bp.blogspot.com/-8k9ptU1a9ZA/Vbvbl5a8RfI/AAAAAAAAAME/gcFZMLeTw34/w1024/batmobile%2Bdiffuse.jpg)
 </div>
 
 I want to share the pontiness node setup for my lego batmobile render. You can tweak glossiness parameters to get more shiny plastic material. Here i preferred to shade rough plastic.
 
-<div class="figure">
-![](http://2.bp.blogspot.com/-5QizRuoxqC4/Vbvb83fzzfI/AAAAAAAAAMM/yNThMT-2ukU/w1024/ayarlar%2Bpointiness.bmp)
-Pointiness Material Setup for Easy Worn Edges
-</div>
+![Pointiness Material Setup for Easy Worn Edges](http://2.bp.blogspot.com/-5QizRuoxqC4/Vbvb83fzzfI/AAAAAAAAAMM/yNThMT-2ukU/w1024/ayarlar%2Bpointiness.bmp)
 
 Thanks a lot for your interest. I will be here with other pointiness trials at another time to see what we can do with pointiness parameter. Have a nice day and keep blendering folks!
 
-</div><br />

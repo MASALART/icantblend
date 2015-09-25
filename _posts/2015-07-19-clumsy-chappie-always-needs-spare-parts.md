@@ -21,4 +21,4 @@ blogger_orig_url: http://www.icantblend.com/2015/07/clumsy-chappie-always-needs-
 
 Hi friends, I have already started to model Chappie the Clumsy. If you are a robot and you are adorably clumsy, first thing you need is spare parts. Here they are.
 
-![Chappie spare parts](http://1.bp.blogspot.com/-Hm7U9EsdDOk/VawGwUC64gI/AAAAAAAAAIw/DzH-Kp8PfOo/w1024/ChappieSpareParts.jpg)
+![Chappie spare parts.](http://1.bp.blogspot.com/-Hm7U9EsdDOk/VawGwUC64gI/AAAAAAAAAIw/DzH-Kp8PfOo/w1024/ChappieSpareParts.jpg)

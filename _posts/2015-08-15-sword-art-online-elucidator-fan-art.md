@@ -24,5 +24,5 @@ blogger_orig_url: http://www.icantblend.com/2015/08/sword-art-online-elucidator-
 
 Hi friends, it's been a while i am out. Now i am back and it's really an excitement for me. I have modeled Kirito's primary weapon "ELUCIDATOR" from the epic anime serie "Sword Art Online". Here you see the rendering. It's modeled in BLENDER 3D and rendered by CYCLES. I'm pretty satisfied with the result. I will share the detailed modelling and lighting processes soon. Thanks for your interest.
 
-![Elucidator](http://2.bp.blogspot.com/-YF6Drq79r-c/Vc7lJdcnDdI/AAAAAAAAAOo/Ael45EyH27c/w1024/elucidator%2Bkirito%2Bsword.jpg "Elucidator, Kirito's sword.")
+![Elucidator, Kirito's sword.](http://2.bp.blogspot.com/-YF6Drq79r-c/Vc7lJdcnDdI/AAAAAAAAAOo/Ael45EyH27c/w1024/elucidator%2Bkirito%2Bsword.jpg)
 

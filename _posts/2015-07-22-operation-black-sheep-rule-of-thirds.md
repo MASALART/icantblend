@@ -23,12 +23,12 @@ blogger_orig_url: http://www.icantblend.com/2015/07/operation-black-sheep-rule-o
 
 Hi friends, few days ago i started a topic about a black sheep. I have already finished the base modelling. Before completing the model and the fur i will try a composition for the Black Sheep Scene. Here you see the composition of the scene.
 
-![Rule of thirds](http://1.bp.blogspot.com/-5VdX0IcAyCA/VbHkFXtSlDI/AAAAAAAAAKw/LnmcajLx4OI/w1024/blacksheep_ruleofthirds.jpg)
+![](http://1.bp.blogspot.com/-5VdX0IcAyCA/VbHkFXtSlDI/AAAAAAAAAKw/LnmcajLx4OI/w1024/blacksheep_ruleofthirds.jpg)
 
 The common tip used for photography is the RULE of THIRDS. That means you may place the main subject at the intersection of the four lines you see below. You may decide which intersection point you will choose due to the scene. I chose upper left intersection point.
 
-[When viewing images, people's eyes usually go to one of the intersection points most naturally rather than the center of the shot - using the rule of thirds works with this natural way of viewing an image rather than working against it.](http://digital-photography-school.com/rule-of-thirds/)
+When viewing images, people's eyes usually go to one of the intersection points most naturally rather than the center of the shot - using the [rule of thirds](http://digital-photography-school.com/rule-of-thirds/) works with this natural way of viewing an image rather than working against it.
 
-![Composition](http://1.bp.blogspot.com/-FRPPp0332xM/VbAVwcyJi2I/AAAAAAAAAKQ/UbaFg6qT-RY/w1024/CompositionViewport.bmp)
+![](http://1.bp.blogspot.com/-FRPPp0332xM/VbAVwcyJi2I/AAAAAAAAAKQ/UbaFg6qT-RY/w1024/CompositionViewport.bmp)
 
 Thank you for your interest. Have a nice day.

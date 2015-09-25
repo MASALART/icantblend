@@ -25,15 +25,9 @@ Hi friends, how is life going? There has been so many tutorials about wireframe 
 **Tweak:** Offset - Mine was *"1"*. If your wireframe is seen easily on the viewport it may be default *"0"*\\
 **Replace Original:** If this is checked, it means the solid model turns into a wireframe model. If this is unchecked, it means the solid model stays and a wireframe model is put on the solid model.
 
-<div class="figure">
-![](http://1.bp.blogspot.com/-8-aIwBkpd30/VaN-c-DuD3I/AAAAAAAAAG8/4h6pnigbq4M/w1024/hardcase_wireframe_raw_pixlr.jpg)
-Here is the wireframe render of a hard case.
-</div>
+![Here is the wireframe render of a hard case.](http://1.bp.blogspot.com/-8-aIwBkpd30/VaN-c-DuD3I/AAAAAAAAAG8/4h6pnigbq4M/w1024/hardcase_wireframe_raw_pixlr.jpg)
 
-<div class="figure">
-![](http://1.bp.blogspot.com/-A_t5BNLj2vY/VaN-nRjBm2I/AAAAAAAAAHI/rJDeYeGIOLE/w1024/hardcaseraw_pixlr.jpg)
-Here you see the final render.
-</div>
+![Here you see the final render.](http://1.bp.blogspot.com/-A_t5BNLj2vY/VaN-nRjBm2I/AAAAAAAAAHI/rJDeYeGIOLE/w1024/hardcaseraw_pixlr.jpg)
 
 Thanks a lot for your interest. See you at another post !
 

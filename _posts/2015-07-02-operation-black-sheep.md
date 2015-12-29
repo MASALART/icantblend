@@ -22,10 +22,6 @@ blogger_id: tag:blogger.com,1999:blog-3661140495303223609.post-44802484278394157
 blogger_orig_url: http://www.icantblend.com/2015/07/operation-black-sheep.html
 ---
 
-### Deneme
-
-![Batmobile Render.](https://lh3.googleusercontent.com/-2xYV_09lTnw/VbqOSzHDVEI/AAAAAAAAALQ/-NnGFtQoTSg/s800-Ic42/batmobile%252520pointiness_right_20150730234720249.jpg "Batmobile")
-
 Recently I was watching "Chappie" the movie and during the conversation between Chappie and his mommy, Chappie said: Now we are both black sheep, mommy. Suddenly I saw my piggy bank on the shelf. Actually it's a sheep not a pig (: Long story short I decided to model my sheepy bank.
 
 What do we need first to model something?
@@ -48,3 +44,4 @@ Here what she looks like for now !
 
 ![Sheep mesh.](http://3.bp.blogspot.com/-LYMhn-e7J_I/Vazv_gJA3aI/AAAAAAAAAJc/GzIMuepwHeM/w1024/kk_20150720155120921.jpg "Sheep mesh"){: width="400px"}
 {:.centered}
+

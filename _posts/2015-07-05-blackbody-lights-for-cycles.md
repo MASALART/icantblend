@@ -19,6 +19,8 @@ blogger_id: tag:blogger.com,1999:blog-3661140495303223609.post-48869049416318755
 blogger_orig_url: http://www.icantblend.com/2015/07/blackbody-lights-for-cycles.html
 ---
 
+### İkinci Deneme.
+
 Hi friends, how are you all? It's been a long time. I was surfing on blendswap pages. I found an interesting material. [Blackbody lights / Light material for Cycles](http://www.blendswap.com/blends/view/69682). Thanks to #elbrujodelatribu for those awesome blackbody references for emission objects. Node setup was done using  Blender 3D **version 2.69r59044**. I am using Blender 3D **Version 2.72**. So no problem, let's carry on !
 
 ![](http://4.bp.blogspot.com/-6xec0P_Mhv0/VZlQ9ls54xI/AAAAAAAAAEk/V5b5Xxr3DwY/w1024/5%2Bfluorescant%2Blamps%2Braw%2B2.jpg)
